@@ -1,0 +1,407 @@
+Brand_x,Model,Price Details,Availability,Promos / Offers,Review Details,Q&A / FAQ,Brand_y,Processor,Operating System,Graphics,Chipset,Memory (RAM),Storage,Display,External Monitor Support,Audio,Camera,Input Devices,Dimensions & Weight,Case / Chassis,Ports,Card Reader,Wireless Networking,Wired Networking,Mobile Broadband,Docking,Battery,Power Adapter,Biometric Security,General Security,Software & Management,Warranty,Environmental & Durability Standards
+Lenovo,ThinkPad E14 Gen 5 (AMD),"{'Current Price': 'Not Available', 'Original Price': None, 'Discount': None}","{'Status': 'Available Soon', 'Notes': [""PCMag Editors' Choice recipient""]}","['Benefits from joining the free Lenovo Pro store', 'Includes Free Premier Support and priority shipping']","{'Overall Rating': '4.5/5 (116 reviews)', 'Star Breakdown': '5-star: 88, 4-star: 15, 3-star: 5, 2-star: 3, 1-star: 5', 'AI Summary': 'Offers good overall performance and value with a solid build, comfortable keyboard, and decent battery life. The display is clear but could be brighter.', 'User Feedback': 'Praised for being easy to use on the go and having surprising light gaming capabilities with its AMD CPU.'}","['Q: Network connector? A: Yes, it includes a network (ethernet) port on the right side.', 'Q: RAM Upgrade? A: Yes, the bottom cover can be removed with a standard Phillips-head screwdriver to add more RAM.', 'Q: Suitable for CAD? A: Yes, it is suitable for running software like AutoCAD and Solidworks.', 'Q: Touchscreen? A: It is an optional feature for the model line; not all configurations include it.']",Lenovo,"Processor
+
+Processor Family
+AMD Ryzen™ 3 / 5 / 7 Processor
+
+Processor **
+| Processor Name     |   Cores |   Threads | Base Frequency   | Max Frequency   | Cache            | Processor Graphics   |
+|--------------------|---------|-----------|------------------|-----------------|------------------|----------------------|
+| AMD Ryzen™ 3 7330U |       4 |         8 | 2.3GHz           | 4.3GHz          | 2MB L2 / 8MB L3  | AMD Radeon™ Graphics |
+| AMD Ryzen™ 5 5625U |       6 |        12 | 2.3GHz           | 4.3GHz          | 3MB L2 / 16MB L3 | AMD Radeon™ Graphics |
+| AMD Ryzen™ 5 7430U |       6 |        12 | 2.3GHz           | 4.3GHz          | 3MB L2 / 16MB L3 | AMD Radeon™ Graphics |
+| AMD Ryzen™ 5 7530U |       6 |        12 | 2.0GHz           | 4.5GHz          | 3MB L2 / 16MB L3 | AMD Radeon™ Graphics |
+| AMD Ryzen™ 7 7730U |       8 |        16 | 2.0GHz           | 4.5GHz          | 4MB L2 / 16MB L3 | AMD Radeon™ Graphics |","Operating System
+
+Operating System **
+- Windows® 11 Pro ·
+- Windows® 11 Home ·
+- Windows® 11 Home Single Language ·
+- Windows® 11 DG Windows® 10 Pro 64 [1] ·
+- No preload operating system ·","Graphics
+
+Graphics
+| Graphics             | Type       | Memory   | TGP           | Key Features   |
+|----------------------|------------|----------|---------------|----------------|
+| AMD Radeon™ Graphics | Integrated | Shared   | Share CPU TDP | DirectX® 12    |","Chipset
+
+Chipset
+AMD SoC (System on Chip) platform","Memory
+
+Max Memory [1]
+Up to 40GB (8GB soldered + 32GB SO-DIMM) DDR4-3200
+
+Memory Slots
+One memory soldered to systemboard, one DDR4 SO-DIMM slot, dual-channel capable
+
+Memory Type
+DDR4-3200","Storage
+
+Max Storage Support [1]
+Up to two drives, 2x M.2 SSD
+
+<!-- image -->
+
+Storage Slot [2]
+Two M.2 slots
+
+- One M.2 2242 PCIe® 3.0 x4 slot
+- One M.2 2280 PCIe® 3.0 x4 slot
+
+Storage Type *** [3]
+| Disk Type        | Interface                 | Offering      | Security   |
+|------------------|---------------------------|---------------|------------|
+| M.2 2242 SSD [4] | PCIe® NVMe®, PCIe® 3.0 x4 | 128GB         | -          |
+| M.2 2242 SSD     | PCIe® NVMe®, PCIe® 4.0 x4 | 256GB / 512GB | Opal 2.0   |
+| M.2 2280 SSD     | PCIe® NVMe®, PCIe® 4.0 x4 | 1TB           | Opal 2.0   |
+
+Removable Storage","Display
+Display ** [1]
+
+| Size   | Resolution        | Touch        | Type   | Brightness   | Surface     | Aspect Ratio   | Contrast Ratio   | Color Gamut   | Refresh Rate   | Viewing Angle (L/R/U/D)   | Key Features                  |
+|--------|-------------------|--------------|--------|--------------|-------------|----------------|------------------|---------------|----------------|---------------------------|-------------------------------|
+| 14""    | WUXGA (1920x1200) | Non- touch   | IPS    | 300nits      | Anti- glare | 16:10          | 800:1            | 45% NTSC      | 60Hz           | 89° / 89° / 89° / 89°     | TÜV Low Blue Light (Software) |
+| 14""    | WUXGA (1920x1200) | Multi- touch | IPS    | 300nits      | Anti- glare | 16:10          | 800:1            | 45% NTSC      | 60Hz           | 89° / 89° / 89° / 89°     | TÜV Low Blue Light (Software) |
+| 14""    | 2.2K (2240x1400)  | Non- touch   | IPS    | 300nits      | Anti- glare | 16:10          | 1500:1           | 100% sRGB     | 60Hz           | 89° / 89° / 89° / 89°     | Eyesafe® Certified 2.0        |","Monitor Support
+
+Monitor Support
+Supports up to 4 independent displays (native display and 3 external monitors via HDMI® and USB-C®)
+
+- HDMI® supports up to 4096x2160@30Hz
+- USB-C® supports up to 5120x2160@60Hz","Audio Chip
+High Definition (HD) Audio, Synaptic® CX11880 codec
+
+Speakers
+Stereo speakers, 2W x2, Dolby Atmos®
+
+Microphone
+Dual-microphone array, Dolby Voice®","Camera **
+- HD 720p, with privacy shutter, fixed focus ·
+- FHD 1080p + IR hybrid, with privacy shutter, fixed focus ·
+- FHD 1080p, with privacy shutter, fixed focus ·","Pen
+No support
+
+Keyboard
+6-row, spill-resistant, multimedia Fn keys with Unified Communications controls
+
+<!-- image -->
+
+Keyboard Backlight
+- LED backlight ·
+- Non-backlight ·
+
+UltraNav™
+TrackPoint® pointing device and Mylar® surface multi-touch 3-button Trackpad, 56 x 115 mm (2.24 x 4.53 inches)","Dimensions (WxDxH) [1]
+313 x 219.3 x 17.99 mm (12.32 x 8.63 x 0.71 inches)
+
+Weight [2]
+| Models                                     | Weight                         |
+|--------------------------------------------|--------------------------------|
+| Aluminium (top), PC-ABS (bottom) models    | Starting at 1.41 kg (3.11 lbs) |
+| Aluminium (top), aluminium (bottom) models | Starting at 1.43 kg (3.15 lbs) |","Case Color **
+
+- Arctic grey ·
+- Graphite black ·
+
+##
+Case Material **
+
+- Aluminium (top), PC-ABS (bottom) ·
+- Aluminium (top), aluminium (bottom) ·
+
+##","Ports [1]
+
+Standard Ports
+- 1x USB 3.2 Gen 1 ·
+- 1x USB 3.2 Gen 1 (Always On) ·
+- 1x USB-C® 3.2 Gen 1 (support data transfer, Power Delivery 3.0 and DisplayPort™ 1.4) ·
+- 1x USB-C® 3.2 Gen 2 (support data transfer, Power Delivery 3.0 and DisplayPort™ 1.4) ·
+- 1x HDMI® 1.4b ·
+- 1x Headphone / microphone combo jack (3.5mm) ·
+- 1x Ethernet (RJ-45) ·",,"WLAN + Bluetooth® **
+- Wi-Fi® 6, 802.11ax 2x2 Wi-Fi® + Bluetooth® 5.1, M.2 card [1] ·
+- MediaTek Wi-Fi® 6 MT7921, 802.11ax 2x2 Wi-Fi® + Bluetooth® 5.1 (Bluetooth® 5.3 hardware ready), M.2 card [2] ·
+- Realtek® Wi-Fi® 6 RTL8852BE, 802.11ax Dual Band 2x2 Wi-Fi® + Bluetooth® 5.1 (Bluetooth® 5.3 hardware ready), M.2 card [3] ·
+- Wi-Fi® 6E, 802.11ax 2x2 Wi-Fi® + Bluetooth® 5.1, M.2 card [4] ·
+- Realtek® Wi-Fi® 6E RTL8852CE, 802.11ax 2x2 Wi-Fi® + Bluetooth® 5.1 (Bluetooth® 5.3 hardware ready), M.2 card [5] ·
+- AMD Wi-Fi® 6E RZ616, 802.11ax 2x2 Wi-Fi® + Bluetooth® 5.1 (Bluetooth® 5.3 hardware ready), M.2 card [6] ·","Ethernet
+Gigabit Ethernet, Realtek® RTL8111H-CG, 1x RJ-45, supports Wake-on-LAN",,"Docking
+
+Docking
+Various docking solutions supported via USB-C®.
+
+For more compatible docking solutions, please visit Docking for ThinkPad® E14 Gen 5 (AMD)","Battery
+
+Battery ** [1]
+- 47Wh Rechargeable Li-ion Battery, supports Rapid Charge (charge up to 80% in 1hr) ·
+- 57Wh Rechargeable Li-ion Battery, supports Rapid Charge (charge up to 80% in 1hr) ·
+
+Battery Life [2]
+Configuration 1 (max battery life)
+
+MobileMark® 2018: up to 15.03 hr @200nits
+
+JEITA 2.0: up to 20.85 hr @150nits
+
+Local video playback: up to 19.56 hr @150nits","Power Adapter
+
+Power Adapter ** [1]
+- 65W USB-C® (2-pin) AC adapter, supports PD 3.0, 100-240V, 50-60Hz ·
+- 65W USB-C® (3-pin) AC adapter, supports PD 3.0, 100-240V, 50-60Hz ·","Fingerprint Reader
+- Touch style fingerprint reader integrated in power button ·
+- No fingerprint reader ·
+Optional IR camera (Windows Hello)","Security Chip **
+- Firmware TPM 2.0 integrated in SoC ·
+- Discrete TPM 2.0, TCG certified, FIPS 140-2 certified ·
+
+Physical Locks
+Kensington® Nano Security Slot™, 2.5 x 6 mm
+
+BIOS Security
+- NVMe® password ·
+- Power-on password ·
+- Supervisor password ·
+- Self-healing BIOS ·
+
+Other Security
+- Camera privacy shutter ·
+- (Optional) IR camera for Windows® Hello (facial recognition) ·
+- ThinkShield ·","System Management
+System Management
+
+Non-DASH","Base Warranty **
+- 1-year mail-in service ·
+- 1-year courier or carry-in service ·
+- 1-year courier or carry-in with 2-year system board service (Korea only) ·
+- 1-year limited onsite service ·
+- No base warranty ·","Sustainability
+
+Green Certifications [1]
+
+Green Certifications [2]
+- ENERGY STAR® 8.0 ·
+- EPEAT™ Gold Registered [3] ·
+- ErP Lot 6/26 ·
+- RoHS compliant ·
+- TCO Certified 9.0 ·
+
+Mil-Spec Test
+MIL-STD-810H military test passed"
+Lenovo,ThinkPad E14 Gen 5 (Intel),"{'Current Price': '$1,019.00', 'Original Price': '$1,149.00', 'Discount': '$130.00 off'}","{'Status': 'Available', 'Notes': [""Status is 'Ready to Ship'"", 'Estimated delivery by Tuesday, Sep. 30']}","['eCoupon available: SAVEONESERIES', '$30 back in My Lenovo Rewards', 'Special discount pricing for Business, Students, and Teachers', 'Limited time offer on Microsoft 365 + Earn 3X rewards']","{'Overall Rating': '4.5/5 (293 reviews)', 'Star Breakdown': '5-star: 130, 4-star: 30, 3-star: 7, 2-star: 3, 1-star: 4', 'AI Summary': 'Praised for fast processing speeds, long battery life, and a sturdy build quality, making it well-suited for demanding tasks.', 'User Feedback': ""Reviews are highly polarized, with many users calling it a 'Great computer' and 'perfect', while others found it a 'Horrible device' and returned it immediately.""}",['Q: What size battery? A: It comes with a 3-cell 47WH battery.'],Lenovo,"Processor
+
+Processor Family
+13th Generation Intel® U, P or H Series Core i3 / i5 / i7 Processor
+
+Processor **
+| Processor Name   | Cores                    |   Threads | Base Frequency                | Max Frequency                 | Cache   | Processor Graphics           |
+|------------------|--------------------------|-----------|-------------------------------|-------------------------------|---------|------------------------------|
+| Core i3-1315U    | 6 (2 P-core + 4 E- core) |         8 | P-core 1.2GHz / E-core 0.9GHz | P-core 4.5GHz / E-core 3.3GHz | 10MB    | Intel® UHD Graphics          |
+| Core i5-1335U    | 10 (2 P-core + 8 E-core) |        12 | P-core 1.3GHz / E-core 0.9GHz | P-core 4.6GHz / E-core 3.4GHz | 12MB    | Intel® Iris® Xe Graphics [1] |
+| Core i5-1340P    | 12 (4 P-core + 8 E-core) |        16 | P-core 1.9GHz / E-core 1.4GHz | P-core 4.6GHz / E-core 3.4GHz | 12MB    | Intel® Iris® Xe Graphics [2] |
+| Core i5- 13420H  | 8 (4 P-core + 4 E- core) |        12 | P-core 2.1GHz / E-core 1.5GHz | P-core 4.6GHz / E-core 3.4GHz | 12MB    | Intel® UHD Graphics          |
+| Core i5-1345U    | 10 (2 P-core + 8 E-core) |        12 | P-core 1.6GHz / E-core 1.2GHz | P-core 4.7GHz / E-core 3.5GHz | 12MB    | Intel® Iris® Xe Graphics [3] |
+| Core i5- 13500H  | 12 (4 P-core + 8 E-core) |        16 | P-core 2.6GHz / E-core 1.9GHz | P-core 4.7GHz / E-core 3.5GHz | 18MB    | Intel® Iris® Xe Graphics [4] |
+| Core i7-1355U    | 10 (2 P-core + 8 E-core) |        12 | P-core 1.7GHz / E-core 1.2GHz | P-core 5.0GHz / E-core 3.7GHz | 12MB    | Intel® Iris® Xe Graphics [5] |
+| Core i7-1360P    | 12 (4 P-core + 8 E-core) |        16 | P-core 2.2GHz / E-core 1.6GHz | P-core 5.0GHz / E-core 3.7GHz | 18MB    | Intel® Iris® Xe Graphics [6] |
+| Core i7-1365U    | 10 (2 P-core + 8 E-core) |        12 | P-core 1.8GHz / E-core 1.3GHz | P-core 5.2GHz / E-core 3.9GHz | 12MB    | Intel® Iris® Xe Graphics [7] |
+| Core i7- 13700H  | 14 (6 P-core + 8 E-core) |        20 | P-core 2.4GHz / E-core 1.8GHz | P-core 5.0GHz / E-core 3.7GHz | 24MB    | Intel® Iris® Xe Graphics [8] |","Operating System
+
+Operating System **
+- Windows® 11 Pro ·
+- Windows® 11 Home ·
+- Windows® 11 Home Single Language ·
+- Windows® 11 DG Windows® 10 Pro 64 [1] ·
+- Ubuntu Linux [2] ·
+- No preload operating system ·","Graphics
+
+Graphics **
+| Graphics                     | Type       | Memory    | TGP           | Key Features   |
+|------------------------------|------------|-----------|---------------|----------------|
+| Intel® UHD Graphics          | Integrated | Shared    | Share CPU TDP | DirectX® 12.1  |
+| Intel® Iris® Xe Graphics [1] | Integrated | Shared    | Share CPU TDP | DirectX® 12.1  |
+| NVIDIA® GeForce MX550        | Discrete   | 2GB GDDR6 | -             | DirectX® 12    |
+
+<!-- image -->","Chipset
+
+Chipset
+Intel® SoC (System on Chip) platform","Memory
+
+Max Memory
+- Up to 40GB (8GB soldered + 32GB SO-DIMM) DDR4-3200 ·
+- Up to 48GB (16GB soldered + 32GB SO-DIMM) DDR4-3200 [1] ·
+
+Memory Slots
+One memory soldered to systemboard, one DDR4 SO-DIMM slot, dual-channel capable
+
+Memory Type
+DDR4-3200","Storage
+
+Max Storage Support [1]
+Up to two drives, 2x M.2 SSD
+
+- M.2 2242 SSD up to 1TB each
+
+Storage Slot [2]
+Two M.2 slots
+
+- One M.2 2242 PCIe® 3.0 x4 slot
+- One M.2 2242 PCIe® 4.0 x4 slot
+
+Storage Type ***
+| Disk Type    | Interface                     | Offering            | Security   |
+|--------------|-------------------------------|---------------------|------------|
+| M.2 2242 SSD | PCIe® NVMe®, PCIe® 3.0 x4     | 128GB               | -          |
+| M.2 2242 SSD | PCIe® NVMe®, PCIe® 4.0 x4 [3] | 256GB / 512GB / 1TB | Opal 2.0   |
+
+Removable Storage","Display
+Display ** [1]
+
+| Size   | Resolution        | Touch        | Type   | Brightness   | Surface     | Aspect Ratio   | Contrast Ratio   | Color Gamut   | Refresh Rate   | Viewing Angle (L/R/U/D)   | Key Features                  |
+|--------|-------------------|--------------|--------|--------------|-------------|----------------|------------------|---------------|----------------|---------------------------|-------------------------------|
+| 14""    | WUXGA (1920x1200) | Non- touch   | IPS    | 300nits      | Anti- glare | 16:10          | 800:1            | 45% NTSC      | 60Hz           | 89° / 89° / 89° / 89°     | TÜV Low Blue Light (Software) |
+| 14""    | WUXGA (1920x1200) | Multi- touch | IPS    | 300nits      | Anti- glare | 16:10          | 800:1            | 45% NTSC      | 60Hz           | 89° / 89° / 89° / 89°     | TÜV Low Blue Light (Software) |
+| 14""    | 2.2K (2240x1400)  | Non- touch   | IPS    | 300nits      | Anti- glare | 16:10          | 1500:1           | 100% sRGB     | 60Hz           | 89° / 89° / 89° / 89°     | Eyesafe® Certified 2.0        |","Monitor Support
+
+Monitor Support
+Supports up to 4 independent displays (native display and 3 external monitors via HDMI®, USB-C® and Thunderbolt™)
+
+- HDMI® supports up to 4096x2160@60Hz
+- USB-C® supports up to 4096x2160@60Hz
+- Thunderbolt™ supports up to 5120x2880@60Hz","Speakers
+Stereo speakers, 2W x2, Dolby Atmos®
+
+Microphone
+Dual-microphone array, Dolby Voice®","Camera **
+- HD 720p, with privacy shutter, fixed focus ·
+- FHD 1080p + IR hybrid, with privacy shutter, fixed focus ·
+- FHD 1080p, with privacy shutter, fixed focus ·","Pen
+No support
+
+Keyboard
+6-row, spill-resistant, multimedia Fn keys with Unified Communications controls
+
+Keyboard Backlight
+- LED backlight ·
+- Non-backlight ·
+
+UltraNav™
+TrackPoint® pointing device and Mylar® surface multi-touch 3-button Trackpad, 56 x 115 mm (2.24 x 4.53 inches)","Dimensions (WxDxH) [1]
+313 x 219.3 x 17.99 mm (12.32 x 8.63 x 0.71 inches)
+
+Weight [2]
+| Models                                     | Weight                         |
+|--------------------------------------------|--------------------------------|
+| Aluminium (top), PC-ABS (bottom) models    | Starting at 1.41 kg (3.11 lbs) |
+| Aluminium (top), aluminium (bottom) models | Starting at 1.43 kg (3.15 lbs) |","Case Color **
+
+- Arctic grey ·
+- Graphite black ·
+
+##
+Case Material **
+
+- Aluminium (top), PC-ABS (bottom) ·
+- Aluminium (top), aluminium (bottom) ·
+
+##","Ports [1]
+
+Standard Ports
+- 1x USB 2.0 ·
+- 1x USB 3.2 Gen 1 (Always On) ·
+- 1x USB-C® 3.2 Gen 2 (support data transfer, Power Delivery 3.0 and DisplayPort™ 1.4) ·
+- 1x Thunderbolt™ 4 / USB4® 40Gbps (support data transfer, Power Delivery 3.0 and DisplayPort™ 1.4) ·
+- 1x HDMI® 2.1, up to 4K/60Hz ·
+- 1x Headphone / microphone combo jack (3.5mm) ·
+- 1x Ethernet (RJ-45) ·",,"WLAN + Bluetooth® **
+- Wi-Fi® 6, 802.11ax 2x2 Wi-Fi® + Bluetooth® 5.1, M.2 card [1] ·
+- Realtek® Wi-Fi® 6 RTL8852BE, 802.11ax Dual Band 2x2 Wi-Fi® + Bluetooth® 5.1 (Bluetooth® 5.3 hardware ready), M.2 card [2] ·
+- Intel® Wi-Fi® 6 AX201, 802.11ax 2x2 Wi-Fi® + Bluetooth® 5.1 (Bluetooth® 5.2 hardware ready), M.2 card [3] ·
+- Wi-Fi® 6E, 802.11ax 2x2 Wi-Fi® + Bluetooth® 5.1, M.2 card [4] ·
+- Realtek® Wi-Fi® 6E RTL8852CE, 802.11ax 2x2 Wi-Fi® + Bluetooth® 5.1 (Bluetooth® 5.3 hardware ready), M.2 card [5] ·
+- Intel® Wi-Fi® 6E AX211, 802.11ax 2x2 Wi-Fi® + Bluetooth® 5.1 (Bluetooth® 5.3 hardware ready), M.2 card [6] ·","Ethernet
+Gigabit Ethernet, Intel® Ethernet Connection I219-V, 1x RJ-45, supports Wake-on-LAN",,"Docking
+<!-- image -->
+
+Docking
+Various docking solutions supported via Thunderbolt™ or USB-C®. For more compatible docking solutions, please visit Docking for ThinkPad® E14 Gen 5 (Intel®)","Battery
+** [1]
+
+Battery
+
+- 47Wh Rechargeable Li-ion Battery, supports Rapid Charge (charge up to 80% in 1hr) ·
+- 57Wh Rechargeable Li-ion Battery, supports Rapid Charge (charge up to 80% in 1hr) ·
+
+Battery Life [2]
+Configuration 1 (max battery life) MobileMark® 2018: up to 11.2 hr @200nits MobileMark® 25: up to 8.58 hr with 725 performance score @250nits JEITA 2.0: up to 15.2 hr @150nits Local video playback: up to 13.9 hr @150nits
+
+Alternate configuration 2 MobileMark® 2018: up to 9.16 hr @200nits MobileMark® 25: up to 7.6 hr with 814 performance score @250nits JEITA 2.0: up to 15.3 hr @150nits Local video playback: up to 13.4 hr @150nits
+
+Alternate configuration 3 MobileMark® 2018: up to 8.18 hr @200nits MobileMark® 25: up to 6.7 hr with 716 performance score @250nits JEITA 2.0: up to 14.9 hr @150nits Local video playback: up to 13.1 hr @150nits","Power Adapter
+
+Power Adapter ** [1]
+- 65W USB-C® (2-pin) AC adapter, supports PD 3.0, 100-240V, 50-60Hz ·
+- 65W USB-C® (3-pin) AC adapter, supports PD 3.0, 100-240V, 50-60Hz ·","Fingerprint Reader
+- Touch style fingerprint reader integrated in power button ·
+- No fingerprint reader ·
+Optional IR camera (Windows Hello)","Security Chip **
+- Firmware TPM 2.0 integrated in SoC ·
+- Discrete TPM 2.0, TCG certified, FIPS 140-2 certified ·
+
+Physical Locks
+Kensington® Nano Security Slot™, 2.5 x 6 mm
+
+BIOS Security
+- NVMe® password ·
+- Power-on password ·
+- Supervisor password ·
+- Self-healing BIOS ·
+
+Other Security
+- Camera privacy shutter ·
+- (Optional) IR camera for Windows® Hello (facial recognition) ·
+- ThinkShield ·","System Management
+
+System Management [1]
+- Intel® vPro® Enterprise ·
+- Non-vPro® ·","Base Warranty **
+- 1-year mail-in service ·
+- 1-year courier or carry-in service ·
+- 1-year courier or carry-in with 2-year system board service (Korea only) ·
+- 1-year limited onsite service ·
+- No base warranty ·","Sustainability
+
+Green Certifications [1]
+
+Green Certifications [2]
+- ENERGY STAR® 8.0 ·
+- EPEAT™ Gold Registered [3] ·
+- ErP Lot 6/26 ·
+- FSC certified package ·
+- RoHS compliant ·
+- TCO Certified 9.0 ·
+
+Mil-Spec Test
+MIL-STD-810H military test passed"
+HP,HP ProBook 440 14 inch G11 Notebook PC,"{'Current Price': '$849.00', 'Original Price': '$2,229.00', 'Discount': '61% OFF / Save $1,380.00'}","{'Status': 'Available', 'Notes': ['Expected to ship on Sep. 24 or 25']}","['Free Storewide Shipping', 'Save $30 on select printers when you buy any PC', '3% back in HP Rewards']","{'Overall Rating': '4.3/5 (56 reviews)', 'Star Breakdown': None, 'AI Summary': None, 'User Feedback': 'Praised for its sleek design and fast performance. However, multiple, consistent reviews report that the battery life is disappointingly short.'}","['Q: Shipping outside US? A: No, HP.com ships only to addresses within the United States.', 'Q: Connectivity? A: Includes modern Wi-Fi 6E and a physical RJ-45 (ethernet) port.', 'Q: AI Features? A: Yes, it runs Windows 11 which includes Microsoft Copilot.']",HP,"Family: Intel® Core™ Ultra 5 processor Intel® Core™ Ultra 7 processor
+Models: Intel® Core™ Ultra 7 155 H (up to 3.8 GHzE-core MaxTurbo frequency,up to 4.8 GHzP-core MaxTurbo frequency, 24 MBL 3 cache,6 P- cores and 8 E-cores, 22 threads) Intel® Core™ Ultra 5 125 H (up to 3.6 GHzE-core MaxTurbo frequency,up to 4.5 GHzP-core MaxTurbo frequency, 18 MBL 3 cache,4 P- cores and 8 E-cores, 18 threads) Intel® Core™ Ultra 7 155 U (up to 3.8 GHzE-core MaxTurbo frequency,up to 4.8 GHzP-core MaxTurbo frequency, 12 MBL 3 cache,2 P- cores and 8 E-cores, 14 threads) Intel® Core™ Ultra 5 125 U (up to 3.6 GHzE-core MaxTurbo frequency,up to 4.3 GHzP-core MaxTurbo frequency, 12 MBL 3 cache,2 P- cores and 8 E-cores, 14 threads)",Windows 11 Pro Windows 11 Pro Education Windows 11 Home-HPrecommendsWindows 11 Proforbusiness Windows 11 HomeSingle Language - HPrecommendsWindows 11 Pro for business Windows 11 Pro (Windows 11 EnterpriseorWindows 10 Enterprise available with aVolumeLicensing Agreement) FreeDOS 1 1 1 1 1,"Integrated: Intel® Arc™ Graphics; Intel® Graphics Discrete: NVIDIA®GeForceRTX™ 2050 LaptopGPU(4 GBGDDR 6 dedicated) (Support DX 12 and HDMI 2.1.) 12,44 13",,"Maximum: 32 GBDDR 5-5600 MT/sRAM;(Transferrates upto 5600 MT/s.) Dual channel support. 6
+Slots: 2 SODIMM",,"Size: 35.6 cm(14"")
+Options: 14"" diagonal,WUXGA(1920 x 1200), IPS, anti-glare,400 nits, low power,100%sRGBwith HPEyeEase; 14"" diagonal,WUXGA(1920 x 1200), IPS, anti-glare,300 nits, 45%NTSC;14""diagonal,WUXGA(1920 x 1200), touch, IPS, anti-glare,300 nits,45%NTSC;14""diagonal,WQXGA (2560 x 1600), IPS, anti-glare,500 nits,100%DCI-P 3 35.6 cm(14"") diagonal,WUXGA(1920 x 1200), IPS, anti-glare,400 nits, low power,100%sRGBwith HPEyeEase; 35.6 cm(14"") diagonal, WUXGA(1920 x 1200), IPS, anti-glare,300 nits, 45%NTSC;35.6 cm(14"") diagonal,WUXGA(1920 x 1200),touch, IPS, anti-glare,300 nits, 45%NTSC;35.6 cm(14"") diagonal, WQXGA(2560 x 1600),IPS,anti-glare,500 nits,100%DCI-P 3",HDMI 2.1; DisplayPort 1.4 over USB-C,"Audio by Poly Studio, dual stereo speakers with discrete amplifiers, integrated dual array microphones",FHDcamera(select models); 5 MPIRcamera(select models) 15,"Spill-resistant, optional backlit keyboard with DuraKeys ; Clickpad with multi-touch gesture support; Microsoft Precision Touchpad 14","Dimensions: 12.54 x 8.83 x 0.43 in (front); 12.54 x 8.83 x 0.67 in (rear); 31.86 x 22.44 x 1.09 cm(front); 31.86 x 22.43 x 1.7 cm(rear); (Front height measurement is near the front edgewherethechassis bottom cover taper begins.Back height measurement is near the back edge where the chassis bottom cover taper ends.); 2.71 x 17.67 x 12 in 6.9 x 44.9 x 30.5 cm(Package)
+Weight: Starting at 3.08 lb; Starting at 1.39 kg; (Weight will vary by configuration.Does not include poweradapter.)","Manufactured with sustainability in mind, this ProBook 440 contains 50 percent post-industrial recycled stamped aluminum in the chassis and 100 percent sustainably sourced materials in the outer box. Carry this laptop in style with a sleek, compact chassis featuring stylish aluminum components.","2 USBType-C® 20 Gbps signaling rate (USB Power Delivery, DisplayPort™ 1.4, HPSleepandCharge); 2 USBType-A 5 Gbps signaling rate (1 charging, 1 power); 1 HDMI 2.1; 1 stereo headphone/microphone combojack; 1 RJ-45 ; (HDMI cable sold separately.)",1 nano SIM (optional) (Nano SIM / WWAN option),"Wi-Fi 6 EAX 211 (2 x 2) and Bluetooth® 5.3 wireless card
+Wi-Fi 6 E RTL 8852 CE 802.11 a/b/g/n/ax (2 x 2) and Bluetooth® 5.3 wireless card",,ltek Wi-Fi 6 E RTL 8852 CE 802.11 a/b/g/n/ax (2 x 2) and Bluetooth® 5.3 wireless card Qualcomm® 9205 LTECat-M 1 LTEAdvancedPro,Supports universal USB-C docking (two multifunction USB-C ports),"HPLongLife 3-cell,56 WhLi-ion polymer ; Battery is internal and not replaceable by customer. Serviceable by warranty. Fast charging 50%in 30 minutes. 37 39",45 WUSBType-C®adapter; 65 WUSBType-C®adapter; HP 100 WUSBType-C®slimadapter; HP 65 WUSBType-C®Halogen-free adapter 38,Optional 5MP IR Camera (Windows Hello),,"Software: Adobeoffer; BuyOffice; HPConnection Optimizer; HPEasyClean ; HPEasyClean Keyboard Driver; HPMACAddressManager;Copilot in Windowswith Copilot key ; HPPCHardwareDiagnostics UEFI; HPPCHardwareDiagnostics Windows; HPPowerManager ;HP Privacy Settings; HPServices Scan ; HPSmartSupport ; HPSupportAssistant ; HSAFusion for Commercial; HSATelemetry for Commercial; myHP; Miro offer 41 19 42 43 57 21 22
+Security Licenses: HPWolf Pro Security Edition 56
+Management Features: HPClient Catalog (download) HPCloud Recovery HPConnect for Microsoft Endpoint Manager HPClient Management Script Library (download) HPDriver Packs (download) HPImageAssistant (download) HPManageability Integration Kit (download) HP Patch Assistant (download) 23 24 25 26","1-year warranty and 90 daysoftware limited warranty options depending on country. Batteries haveadefault oneyear limited warranty. Refer to http://www.hp.com/support/batterywarranty/ for additional battery information. On-site serviceand extended coverage is also available.HPCarePack Services are optional extended service contracts that go beyond the standard limited warranties. To choose the right level of service foryourHPproduct,usetheHPCarePack Services LookupTool at: http://www.hp.com/go/cpc .","Ecolabels: EPEAT® registered configurations available; TCOCertified configurations available; EPEAT® Gold registered in the U.S. 40
+Energy Star: ENERGYSTAR®certified
+Compliance: GSMark;CSA/UL 62368-1; FCC/ICES/CISPR/VCCI; CEMarking; China CCC/SRRC;Taiwan BSMI/NCC; Korea KCC/KC/KES; Ukraine NSoC/TEC; EAEUCompliance; Saudi Arabian Compliance; Lowblue light;WWRoHS
+Sustainability: Lowhalogen; Bulk packaging available; Molded paper pulp cushion inside box is 100% sustainably sourced and recyclable; Outside box and corrugated cushionsare 100% sustainably sourced and recyclable; 20%post-consumerrecycled plastic; Ocean-bound plastic in speaker enclosureand system fan; 50%recycled metal 45,46,47,48,49
+MIL-STD Tested (marketing claim)"
+HP,HP ProBook 450 15.6 inch G10 Notebook PC,"{'Current Price': 'Not Available', 'Original Price': None, 'Discount': None}","{'Status': 'Not Available', 'Notes': ['Key Specs: Intel Core i7-1355U, 32 GB RAM, 1 TB SSD storage.']}","['Free Storewide Shipping', 'Save $30 on select printers with any PC', '3% back in HP Rewards']","{'Overall Rating': '4.4/5 (208 reviews)', 'Star Breakdown': None, 'AI Summary': None, 'User Feedback': ""Users report it's a great value ('Great Cost Benefit') and easy to set up for work. One user reported a hardware failure with the power plug after about a year.""}","['Q: Touchscreen? A: Yes, this configuration includes a touchscreen.', 'Q: Adapter? A: Comes with a 45W USB Type-C power adapter.', 'Q: Fingerprint Sensor? A: No, this specific model does not include a fingerprint sensor.']",HP,"Family: Intel® Pentium® processor 13 th Generation Intel® Core™ i 7 processor 13 th Generation Intel® Core™ i 5 processor 13 th Generation Intel® Core™ i 3 processor
+Models: Intel® Core™ i 7-1355 U (1.2 GHzE-core base frequency, 1.7 GHzP-core base frequency,up to 3.7 GHzE-core MaxTurbo frequency,up to 5.0 GHzP- core MaxTurbo frequency, 12 MBL 3 cache,2 P-cores and 8 E-cores, 12 threads) Intel® Core™ i 5-1335 U (0.9 GHzE-core base frequency, 1.3 GHzP-core base frequency,up to 3.4 GHzE-core MaxTurbo frequency,up to 4.6 GHzP- core MaxTurbo frequency, 12 MBL 3 cache,2 P-cores and 8 E-cores, 12 threads) Intel® Core™ i 3-1340 P with Intel® UHDGraphics (0.9 GHzE-core base frequency, 1.2 GHzP-core base frequency,up to 3.3 GHzE-core MaxTurbo frequency,up to 4.5 GHzP-core MaxTurbo frequency, 10 MBL 3 cache,2 P-cores and 4 E-cores,6 threads) Intel® Pentium® U 300 with Intel® UHDGraphics (0.9 GHzE-core base frequency, 1.2 GHzP-core base frequency,up to 3.3 GHzE-core MaxTurbo frequency,up to 4.4 GHzP-core burst frequency,8 MBL 3 cache,1 P-coreand 4 E-cores,6 threads) Intel® Core™ i 7-1360 P (1.6 GHzE-core base frequency, 2.2 GHzP-core base frequency,up to 3.7 GHzE-core MaxTurbo frequency,up to 5.0 GHzP- core MaxTurbo frequency, 18 MBL 3 cache,4 P-cores and 8 E-cores, 16 threads) Intel® Core™ i 5-1340 P (1.4 GHzE-core base frequency, 1.9 GHzP-core base frequency,up to 3.4 GHzE-core MaxTurbo frequency,up to 4.6 GHzP- core MaxTurbo frequency, 12 MBL 3 cache,4 P-cores and 8 E-cores, 16 threads) Intel® Core™ i 5-1334 U (0.9 GHzE-core base frequency, 1.3 GHzP-core base frequency,up to 3.4 GHzE-core MaxTurbo frequency,up to 4.6 GHzP- core MaxTurbo frequency, 12 MBL 3 cache,2 P-cores and 8 E-core, 12 threads)","Windows 11 Pro Windows 11 Pro Education Windows 11 Home-HPrecommendsWindows 11 Proforbusiness Windows 11 HomeSingle Language - HPrecommendsWindows 11 Pro for business Windows 11 Pro (Windows 11 EnterpriseorWindows 10 Enterprise available with aVolumeLicensing Agreement) Windows 11 Pro (preinstalled withWindows 10 Pro Downgrade) FreeDOS 1 1 1 1 1 1,2","Integrated: Intel® UHDGraphics; Intel® Iris®X ᶱ Graphics Discrete: NVIDIA®GeForceRTX™ 2050 LaptopGPU(4 GBGDDR 6 dedicated) (Support CUDA,Optimus,PhysX,GPUBoost 2.0.) 14,42 43",,"Maximum: 32 GBDDR 4-3200 MHzRAM;(Transferrates up to 3200 MT/s.); Both slots are accessible/upgradeable by IT or self-maintainers only. Supports dual channel memory. 7
+Slots: 2 SODIMM",,"Size: 39.6 cm(15.6"")
+Options: 39.6 cm(15.6"") diagonal, FHD(1920 x 1080), narrow bezel, anti-glare,250 nits, 45%NTSC;39.6 cm(15.6"") diagonal, FHD(1920 x 1080), touch, narrow bezel, anti-glare,250 nits, 45%NTSC;39.6 cm(15.6"") diagonal, FHD(1920 x 1080), narrow bezel, anti-glare,400 nits, low power,100%sRGB; 39.6 cm(15.6"") diagonal, QHD(2560 x 1440),anti-glare, narrow bezel,300 nits,72%NTSC",HDMI 2.1; DisplayPort 1.4 over USB-C,"Dual stereo speakers, dual array microphones",720 pHDcamerawithtemporal noise reduction (select models); IRCamera (select models) 14,"HPPremiumKeyboard - spill-resistant, full-size, optional backlit keyboard with numeric keypad ; Clickpad with multi-touch gesture support 13","Dimensions: 35.94 x 23.39 x 1.99 cm; 6.9 x 48.3 x 30.5 cm(Package)
+Weight: Starting at 1.79 kg; (Weight will vary by configuration.Does not include poweradapter.)",,"2 USBType-A 5 Gbps signaling rate (1 charging, 1 power); 1 ACpower; 1 HDMI 2.1; 1 stereo headphone/microphone combojack; 1 RJ-45;2 USB Type-C® 10 Gbps signaling rate (USB Power Delivery, DisplayPort™ 2.1) ; (HDMI cable sold separately.); Optional Ports: 1 ExternalNanoSIMslotforWWAN 41",,"Wi-Fi 6 EAX 211 (2 x 2) and Bluetooth® 5.3 wireless card, non-vPro®
+Wi-Fi 6 E RTL 8852 CE 802.11 a/b/g/n/ax (2 x 2) and Bluetooth® 5.3 wireless card",,ltek RTL 8111 HSH-CG 10/100/1000 GbENIC ltek Wi-Fi 6 E RTL 8852 CE 802.11 a/b/g/n/ax (2 x 2) and Bluetooth® 5.3 wireless card LTEAdvancedProCat 16,Supports universal USB-C docking (two multifunction USB-C ports),"HPLongLife 3-cell, 42 WhLi-ion polymer; HPLongLife 3-cell,51 Whpolymer ; Battery is internal and not replaceable by customer. Serviceable by warranty. 36",HPSmart 65 WEMExternalACpoweradapter; HPSmart 45 WExternalACpoweradapter; HPSmart 65 WUSBType-C®adapter;HP Smart 45 WUSBType-C®adapter 37,,,"Software: HPConnection Optimizer; HPHotkey Support; HPSupportAssistant; HPPowerManager; myHP; HPPrivacy Settings; HPNotifications;HP QuickDrop; HPPCHardwareDiagnostics Windows; HPServices Scan; HPSmartSupport (download)Microsoft 365 sold separatelyand requires Internet access for activation. 17,18,19,38,44,45
+Security Licenses: HPWolf Pro Security Edition 56
+Management Features: HPClient Management Script Library (download); HPDriver Packs (download); HPClient Catalog (download); HPManageability Integration KitGen 4 (download); HPImageAssistantGen 5 (download); HPCloud Recovery 20,21","1-yearand 3-year limited warranties and 90 daysoftware limited warranty options depending on country. Batteries haveadefault oneyear limited warranty. Refer to http://www.hp.com/support/batterywarranty/ for additional battery information. On-site service and extended coverage is also available.HPCarePack Services are optional extended service contracts that go beyond the standard limited warranties. To choose the right level of service foryourHPproduct,usetheHPCarePack Services LookupTool at: http://www.hp.com/go/cpc .","Ecolabels: CECP; IT ECODeclaration; EPEAT® Gold registered in the U.S.; SEPA; Taiwan Green Mark; Japan PCGreen Label;KOECO;TCO Certified 39
+Energy Star: ENERGYSTAR®certified
+Sustainability: LowHalogen; Bulk packaging available; Molded paper pulp cushion inside box is 100% sustainably sourced and recyclable; Outside box and corrugated cushionsare 100% sustainably sourced and recyclable; 10%post-consumer recycled plastic 44
+MIL-STD Tested (marketing claim)"
